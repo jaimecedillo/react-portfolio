@@ -121,7 +121,9 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
-
+embed:focus {
+  outline: none;
+}
 .bio-image {
     width: 30%;
     margin-left: 30%;
