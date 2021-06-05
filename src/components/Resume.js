@@ -1,23 +1,10 @@
 import React from 'react';
 
-function Nav() {
+function Resume() {
 
     return (
-        <header>
-            <h1>
-                <a href="/">Jaime Cedillo</a>
-            </h1>
-            <nav>
-                <ul>
-                    <li><a href="#about">About Me</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#contact">Contact Me</a></li>
-                    <li><a href="./resume.html">Resume</a></li>
-                </ul>
-            </nav>
-        </header>
-
+        <embed src="https://github.com/jaimecedillo/react-portfolio/blob/main/src/assets/Resume.pdf" type="application/pdf"   height="700px" width="500"/>
     );
 }
 
-export default Nav;
+export default Resume;
