@@ -1,12 +1,15 @@
 import React from 'react';
 import About from './components/About'
+import Nav from './components/Nav'
 import './App.css';
 import './style/style.css'
+
 
 function App() {
   return (
     <div>
- <main>
+      <Nav></Nav>
+      <main>
         <About></About>
       </main>
     </div>

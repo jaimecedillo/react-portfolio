@@ -4,11 +4,11 @@ import myImage from '../../src/assets/jaime.jpg'
 function About() {
   return (
     <section className="my-5">
-      <h1 id='about'>About Me</h1>
+      <h1 id='about' className=''>About Me</h1>
 
-      <img src={myImage} className="bio-image" alt="jaime" />
+      <img src={myImage} className="bio-image" alt="Jaime" />
 
-      <div className="my-2">
+      <div className="">
         <h2>Jaime Cedillo <br /> Web Developer</h2>
         <p>
           Hi my name is Jaime, I'm based in Utah, USA. I have skills on HTML, CSS, JavaScript, jQuery, AJAX and

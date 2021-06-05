@@ -1,8 +1,88 @@
-body {
-    font-family: 'San Francisco', Helvetica, Arial, san-serif;
-    background-color:#00005A;
-    color:  #BA0600;
+
+* {
+  box-sizing: border-box;
 }
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  background-color:#00005A;
+  color:  #BA0600;
+  margin: 0;
+  padding: 0;
+  font-weight: 600;
+  line-height: 1.5;
+  font-size: 18px;
+  letter-spacing: .1em;
+
+
+}
+main {
+	margin: 0 auto;
+	max-width: 90%;
+  padding: 50px 30px;
+}
+/* styles for header */
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  background-color: #8B000B;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  position: -webkit-sticky;
+  z-index: 9999;
+  margin: 0;
+  color: aliceblue;
+}
+header nav ul li a {
+  padding: 10px 15px;
+  font-weight: lighter;
+  font-size: 1.55vw;
+  text-shadow: 0 0 10px rgba(182, 169, 169, 0.282);
+}
+header a:hover{
+  border-radius: 5px;
+  font-size:50px;
+  transition: all 500ms;
+  font-size-adjust: 20px;
+}
+header nav ul li a:hover {
+  border-radius: 5px;
+  color:var(--light-color);
+  font-size:30px;
+  transition: all 500ms;
+  font-size-adjust: 20px;
+}
+header h1{
+  font-weight: bold;
+  font-size: 38px;
+  color:var(--light-color);
+  margin-left: 25px;
+  
+}
+header a {
+  text-decoration: none;
+  color:var(--light-color);
+}
+header nav {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+/* header and nav bar styles end */
 
 .bio-image {
     width: 30%;
