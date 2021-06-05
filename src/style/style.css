@@ -1,0 +1,10 @@
+body {
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    background-color:#00005A;
+    color:  #BA0600;
+}
+
+.bio-image {
+    width: 30%;
+    margin-left: 30%;
+    }
