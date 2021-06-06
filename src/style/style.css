@@ -180,6 +180,7 @@ footer {
   header a, header nav ul li a {
       background: none;
       font-weight: bolder;
+      position: relative;
   }
  
       nav ul li a {
