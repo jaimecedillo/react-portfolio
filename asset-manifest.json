@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c313dfda.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.69ed10fa.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.69ed10fa.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.453963f8.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.453963f8.js.map",
+    "static/js/2.42ba4166.chunk.js": "/react-portfolio/static/js/2.42ba4166.chunk.js",
+    "static/js/2.42ba4166.chunk.js.map": "/react-portfolio/static/js/2.42ba4166.chunk.js.map",
+    "static/js/3.b284783f.chunk.js": "/react-portfolio/static/js/3.b284783f.chunk.js",
+    "static/js/3.b284783f.chunk.js.map": "/react-portfolio/static/js/3.b284783f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.c313dfda.chunk.css.map": "/react-portfolio/static/css/main.c313dfda.chunk.css.map",
+    "static/js/2.42ba4166.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.42ba4166.chunk.js.LICENSE.txt",
+    "static/media/Resume.22919521.pdf": "/react-portfolio/static/media/Resume.22919521.pdf",
+    "static/media/jaime.2c5703f3.jpg": "/react-portfolio/static/media/jaime.2c5703f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.453963f8.js",
+    "static/js/2.42ba4166.chunk.js",
+    "static/css/main.c313dfda.chunk.css",
+    "static/js/main.69ed10fa.chunk.js"
+  ]
+}
