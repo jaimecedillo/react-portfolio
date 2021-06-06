@@ -1,3 +1,4 @@
+
 # React Portfolio
 **This is my own personal portfolio created using React.js**
 It was created to advertise my self for hiring purposes.
@@ -14,4 +15,4 @@ It was created to advertise my self for hiring purposes.
 ## Portfolio Link
 [Jaime Cedillo](https://jaimecedillo.github.io/react-portfolio/)
 
-![portfolio screenshot](https://github.com/jaimecedillo/jaimes-portfolio/blob/main/assets/images/screenshot.png)
+![portfolio screenshot](https://user-images.githubusercontent.com/74879881/120939623-24584e00-c6d6-11eb-9b21-de3c200d543a.png)
