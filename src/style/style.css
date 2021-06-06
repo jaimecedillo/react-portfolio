@@ -134,8 +134,8 @@ embed:focus {
     margin-left: 30%;
     }
 
-
-    footer {
+    /* footer styling */
+footer {
       display: flex;
       flex-wrap: wrap;
       justify-content:space-evenly;

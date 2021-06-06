@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Password Generator",
+        "image": "https://github.com/jaimecedillo/generate-a-password/blob/main/screenshot.png",
+        "repository": "https://github.com/jaimecedillo/generate-a-password",
+        "application": "https://jaimecedillo.github.io/generate-a-password/"
+    },
+    {
+        "id": 2,
+        "name": "Note Taker",
+        "image": "https://github.com/jaimecedillo/note-taker/blob/main/screenshot.png",
+        "repository": "https://github.com/jaimecedillo/note-taker",
+        "application": "https://new-app-that-notes.herokuapp.com/notes"
+    },
+    {
+        "id": 3,
+        "name": "Budget Tracker",
+        "image": "https://github.com/jaimecedillo/money-trackerblob/main/screenshot.png",
+        "repository": "https://github.com/jaimecedillo/money-tracker",
+        "application": "https://money-tracker19.herokuapp.com"
+    },
+    {
+        "id": 4,
+        "name": "Marvel",
+        "image": "https://github.com/cody1967/dispatch/blob/main/screenshot.jpg",
+        "repository": "https://github.com/cody1967/dispatch",
+        "application": "https://cody1967.github.io/dispatch/"
+    },
+    {
+        "id": 5,
+        "name": "Weightlifting Tracker",
+        "image": "https://user-images.githubusercontent.com/24229278/117555288-2f5a8880-b01b-11eb-83f5-305e28b36e51.png",
+        "repository": "https://github.com/jfraught/weightlifting-tracker",
+        "application": "https://weightlifting-tracker-group10.herokuapp.com/login"
+    },
+    {
+        "id": 6,
+        "name": "Daily Planner",
+        "image": "https://github.com/jaimecedillo/daily-planner/blob/main/screenshot.png",
+        "repository": "https://github.com/jaimecedillo/daily-planner",
+        "application": "https://jaimecedillo.github.io/daily-planner/"
+    }
+]

@@ -1,11 +1,11 @@
 import React from 'react';
-import About from './components/About'
+// import About from './components/About'
 // import Nav from './components/Nav'
 // import Resume from './components/Resume'
-// import Portfolio from './components/Portfolio'
+import Portfolio from './components/Portfolio'
 // import Contact from './components/Contact'
 import Footer from './components/Footer'
-import { FaGithub } from "react-icons/fa"
+import projects from './projects.json';
 
 import './App.css';
 import './style/style.css'
@@ -34,7 +34,7 @@ function App() {
     <div>
       {/* <Nav currentPage={currentPage} handlePageChange={handlePageChange} /> */}
       <main>
-      <About />
+      <Portfolio />
         {/* {
           // Render the component returned by 'renderPage()'
           renderPage()
