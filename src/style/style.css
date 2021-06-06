@@ -57,17 +57,10 @@ header nav ul li a {
   font-size: 1.55vw;
   text-shadow: 0 0 10px rgba(182, 169, 169, 0.282);
 }
-header a:hover{
-  border-radius: 5px;
-  font-size:50px;
-  transition: all 500ms;
-  font-size-adjust: 20px;
-}
+
 header nav ul li a:hover {
   border-radius: 5px;
-  font-size:30px;
-  transition: all 500ms;
-  font-size-adjust: 20px;
+  background-color: var(--dark-color);
 }
 header h1{
   font-weight: bold;
@@ -187,7 +180,7 @@ footer {
         background: none;
         padding: 10px 15px;
         font-weight: lighter;
-        text-shadow: 0 0 10px rgba(182, 169, 169, 0.282);
+        text-shadow: 0 0 10px rgba(104, 81, 81, 0.282);
       }
       header nav ul li a:hover {
         border-radius: 5px;
