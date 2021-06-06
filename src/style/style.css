@@ -182,8 +182,4 @@ footer {
         font-weight: lighter;
         text-shadow: 0 0 10px rgba(104, 81, 81, 0.282);
       }
-      header nav ul li a:hover {
-        border-radius: 5px;
-        pointer-events: none;
-      }
     }
