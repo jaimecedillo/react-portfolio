@@ -33,7 +33,7 @@ function Contact() {
 
     return (
         <section>
-            <h1>Contact</h1>
+            <h1 className="title">Contact</h1>
             <div className="container">
                 <form id="contact-form" onSubmit={handleSubmit}>
                     <div>
@@ -57,7 +57,7 @@ function Contact() {
                 </form>
             </div>
             <div>
-                <p style={{ marginLeft: "35%" }}>
+                <p style={{ color:"#ececee", textAlign:"center"}}>
                     My Email: serj162004@yahoo.com<br />
                     Phone: (562)313-8531
             </p>

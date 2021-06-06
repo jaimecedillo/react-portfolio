@@ -13,7 +13,7 @@ function Footer() {
         <IconContext.Provider value={{ color: "#C80140", size: "3em", }}>
             <footer>
                 <Container fluid={true}>
-                    <Row  >
+                    <Row>
                         <Col md={3}>
                             <a href="https://twitter.com/Ja1m1t0" target="_blank"><FaTwitterSquare />
                             </a>

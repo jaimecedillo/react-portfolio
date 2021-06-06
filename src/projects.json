@@ -2,28 +2,28 @@
     {
         "id": 1,
         "name": "Password Generator",
-        "image": "https://github.com/jaimecedillo/generate-a-password/blob/main/screenshot.png",
+        "image": "https://user-images.githubusercontent.com/74879881/120933588-024fd300-c6b8-11eb-9def-e3301f120713.png",
         "repository": "https://github.com/jaimecedillo/generate-a-password",
         "application": "https://jaimecedillo.github.io/generate-a-password/"
     },
     {
         "id": 2,
         "name": "Note Taker",
-        "image": "https://github.com/jaimecedillo/note-taker/blob/main/screenshot.png",
+        "image": "https://user-images.githubusercontent.com/74879881/120933625-2f9c8100-c6b8-11eb-88ec-5b0d4bf0431b.png",
         "repository": "https://github.com/jaimecedillo/note-taker",
         "application": "https://new-app-that-notes.herokuapp.com/notes"
     },
     {
         "id": 3,
         "name": "Budget Tracker",
-        "image": "https://github.com/jaimecedillo/money-trackerblob/main/screenshot.png",
+        "image": "https://user-images.githubusercontent.com/74879881/120935188-cd934a00-c6be-11eb-9e04-96bfcc3fabd3.png",
         "repository": "https://github.com/jaimecedillo/money-tracker",
         "application": "https://money-tracker19.herokuapp.com"
     },
     {
         "id": 4,
         "name": "Marvel",
-        "image": "https://github.com/cody1967/dispatch/blob/main/screenshot.jpg",
+        "image": "https://user-images.githubusercontent.com/74879881/120933511-bd2ba100-c6b7-11eb-8300-8d4867f671ab.jpg",
         "repository": "https://github.com/cody1967/dispatch",
         "application": "https://cody1967.github.io/dispatch/"
     },
@@ -37,7 +37,7 @@
     {
         "id": 6,
         "name": "Daily Planner",
-        "image": "https://github.com/jaimecedillo/daily-planner/blob/main/screenshot.png",
+        "image": "https://user-images.githubusercontent.com/74879881/120931773-51920580-c6b0-11eb-9810-76225daec2c3.png",
         "repository": "https://github.com/jaimecedillo/daily-planner",
         "application": "https://jaimecedillo.github.io/daily-planner/"
     }
