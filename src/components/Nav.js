@@ -5,7 +5,7 @@ function Nav(props) {
     return (
         <header>
             <h1>
-                <a href="/">Jaime Cedillo</a>
+                <a href="https://jaimecedillo.github.io/react-portfolio/">Jaime Cedillo</a>
             </h1>
             <nav>
                 <ul className="nav nav-tabs">
